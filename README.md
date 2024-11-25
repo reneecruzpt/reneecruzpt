@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reneecruzpt
-- 👀 I’m interested in web development and IoT
-- 🌱 I’m currently learning English and React
-- 💞️ I’m looking to collaborate on full stack projects
+- 👀 I’m interested in Data Analysis, Cibersecurity and IoT
+- 🌱 I’m currently learning English and Pandas
+- 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me -> https://www.linkedin.com/in/reneecruzpt/
 
 <!---
